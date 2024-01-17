@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technology 
 - 🌱 I’m currently learning Django 
 - 💞️ I’m looking to collaborate on personal projects 
-- 📫 How to reach me 
+- 📫 Reach me at bipraranjandas@gmail.com
 
 <!---
 bipraranjanDas/bipraranjanDas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
